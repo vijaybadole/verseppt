@@ -1,0 +1,6 @@
+{
+  "name": "Presentation Builder & Player",
+  "description": "An interactive slideshow editor and full screen presentation player built directly in the browser with beautiful themes, layouts, transitions, custom presenter notes HUD, and JSON import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
